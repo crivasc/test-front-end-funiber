@@ -1,0 +1,17 @@
+html,body{
+    margin: 0;
+    padding: 0;
+}
+.appContainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    background: rgb(225,228,240);
+    background: linear-gradient(328deg, rgba(225,228,240,1) 0%, rgba(222,225,237,1) 100%);
+}
+.arrowIco{
+    width: 25px;
+    float:left;
+    cursor:pointer
+}
