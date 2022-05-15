@@ -12,6 +12,18 @@ html,body{
 }
 .arrowIco{
     width: 25px;
+    cursor:pointer;
     float:left;
-    cursor:pointer
+    margin-top:5px;
+}
+.icon{
+    float:left;
+    margin: -9px 0;
+
+    &.closed{
+        color:#ccc
+    }
+}
+.grouped{
+    color:#607d8b;
 }
